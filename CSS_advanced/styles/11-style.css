@@ -58,9 +58,9 @@ a {
 
 .section-tagline {
   color: var(--color-primary);
-  font-family: var(--font-family-titel)
+  font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
-  font-weight: var(--font-weight-bold--);
+  font-weight: var(--font-weight-bold);
 }
 
 h1,
