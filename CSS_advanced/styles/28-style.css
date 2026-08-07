@@ -267,7 +267,7 @@ html {
 
   --section-tagline-margin: 0;
 
-    --button-display: inline-block;
+  --button-display: inline-block;
   --button-padding: 1.5rem 3rem;
   --button-border: 0.2rem solid var(--color-primary);
   --button-color: var(--color-black);
@@ -277,7 +277,7 @@ html {
   --button-hover-text-decoration: none;
   --button-hover-background: var(--color-primary);
 
-   --header-padding: 4rem 0 0;
+  --header-padding: 4rem 0 0;
   --header-logo-position: relative;
   --header-logo-link-display: inline-block;
   --header-logo-link-position: absolute;
