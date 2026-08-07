@@ -422,6 +422,14 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
+/* Dark theme */
+
+[data-section-theme="dark"] {
+  --text-color: var(--color-white);
+  --section-title-color: var(--color-white);
+  background-color: var(--color-black);
+}
+
 .footer-address {
   color: var(--text-color);
 }
@@ -432,12 +440,4 @@ h6 {
 
 .social-link svg {
   fill: var(--text-color);
-}
-
-/* Dark theme */
-
-[data-section-theme="dark"] {
-  --text-color: var(--color-white);
-  --section-title-color: var(--color-white);
-  background-color: var(--color-black);
 }
